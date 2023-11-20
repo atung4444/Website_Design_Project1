@@ -1,0 +1,129 @@
+#div1{
+  background-color: red;
+  height = 300px;
+}
+
+#div1E1{
+  text-align: right;
+}
+
+#div1E2{
+  text-align: center;
+}
+
+#div1E3{
+  text-align: left;
+  margin-bottom: 0px;
+}
+
+#div2{
+  color: white;
+  background-image: url('https://upload.wikimedia.org/wikipedia/commons/f/f9/Phoenicopterus_ruber_in_S%C3%A3o_Paulo_Zoo.jpg');
+  height: 150px;
+  background-size: 100%;
+  opacity: .8;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 40px;
+}
+
+.projectspec{
+  margin-left: 40px;
+}
+
+#projectspectop{
+  padding-top: 30px;
+}
+
+a{
+  color:red;
+}
+
+ul{
+  list-style-type: square;
+}
+
+ol{
+  list-style-type: upper-roman;
+}
+
+.list{
+  margin-left: 50px;
+}
+
+.syllabusdiv{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 40px;
+  margin-right: 40px;
+  height: 100px;
+}
+
+#syllabus1{
+  background-color: #34e5eb;
+}
+
+.tablediv{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.syllabusTable{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+#syllabus2{
+  background-color: #2feb96;
+}
+
+#syllabus3{
+  background-color: yellow;
+}
+
+#videodiv{
+  background-color: red;
+}
+
+.videocontainer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+  margin-bottom: 0px;
+}
+
+.vidcaption{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#videodiv2{
+  background-color: #f28dd0;
+}
+
+.imagediv{
+  background-color: orange;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 20px;
+  margin-left: 20px;
+  height: 100px;
+  margin-bottom: 30px;
+}
+
+#img1{
+  margin-left: 40px;
+  margin-bottom: 30px;
+}
+
+#img2{
+  padding-left: 350px;
+  margin-right: 20px;
+  margin-bottom: 30px;
+}
